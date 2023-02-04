@@ -7,7 +7,6 @@
 
 <div>
   <a href="https://github.com/Chibilski/Chibilski">
-  <img height="180em" scr=https://github-readme-stats-vercel.app/api?username=Chibilski&show_$icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" scr=https://github-readme-stats-vercel.app/api/top-langs/?username=Chibilski&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" scr=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
   
